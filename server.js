@@ -1,6 +1,8 @@
 // server.js
 // where your node app starts
 
+// Note: testing-001
+
 // init project
 var express = require('express');
 var app = express();
